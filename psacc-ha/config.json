@@ -1,14 +1,14 @@
 {
   "name": "PSA Car Controller",
   "version": "v3.5.2",
-  "slug": "psacc",
+  "slug": "psaccnick",
   "description": "Control and get information from your PSA car Nick-2",
   "arch": [
     "amd64",
     "armhf",
     "aarch64"
   ],
-  "url": "https://github.com/nickl1984/psa_car_controller",
+  "url": "https://github.com/nickl1984/psa_car_controller/releases/tag/v3.5.3",
   "startup": "application",
   "boot": "auto",
   "ports_description": {"5000/tcp": "Web interface"},
