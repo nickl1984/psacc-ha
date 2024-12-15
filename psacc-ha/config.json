@@ -15,7 +15,6 @@
   "ports": {
     "8088/tcp": null
     },
-  "image": "nickl1984/psa_car_controller",
   "legacy": true,
   "ingress": true,
   "ingress_port": 8088,
