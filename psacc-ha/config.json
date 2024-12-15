@@ -7,6 +7,7 @@
     "amd64",
     "armhf",
     "aarch64"
+    "arm64"
   ],
   "url": "https://github.com/nickl1984/psa_car_controller/releases/tag/v3.5.3",
   "startup": "application",
