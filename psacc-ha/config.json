@@ -8,7 +8,7 @@
     "armhf",
     "aarch64"
   ],
-  "url": "https://github.com/nickl1984/psa_car_controller/releases/tag/v3.5.3",
+  "url": "https://github.com/nickl1984/psa_car_controller",
   "startup": "application",
   "boot": "auto",
   "ports_description": {"5000/tcp": "Web interface"},
