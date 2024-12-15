@@ -2,7 +2,7 @@
   "name": "PSA Car Controller",
   "version": "v3.5.4",
   "slug": "psacc",
-  "description": "Control and get information from your PSA car Nick",
+  "description": "Control and get information from your PSA car Nick-2",
   "arch": [
     "amd64",
     "armhf",
